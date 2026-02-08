@@ -121,9 +121,10 @@ agri-drishti/
 
 ## 📸 Screenshots
 
-| National Risk Map | Seasonal Analytics |
-| --- | --- |
-| *(Place your map screenshot here)* | *(Place your chart screenshot here)* |
+| National Risk Map |
+| --- |
+|<img width="1871" height="924" alt="image" src="https://github.com/user-attachments/assets/335a5d4a-bd00-489b-84f3-67057a7ae824" />
+ 
 
 ---
 
