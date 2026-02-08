@@ -1,7 +1,3 @@
-Here is a professional, **Government-Grade README.md** file for your project.
-
-You can copy-paste this directly into a file named `README.md` in your main folder.
-
 ---
 
 # 🛰️ Agri-Drishti | National Crop Stress Early-Warning System
