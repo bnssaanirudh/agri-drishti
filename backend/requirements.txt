@@ -1,0 +1,15 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+geoalchemy2==0.14.3
+pydantic==2.6.0
+pydantic-settings==2.1.0
+numpy==1.26.3
+pandas==2.2.0
+scikit-learn==1.4.0
+torch==2.2.0
+earthengine-api==0.1.388
+shap==0.44.1
+python-multipart==0.0.6
+httpx==0.26.0
